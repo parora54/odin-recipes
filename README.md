@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.theodinproject.com/about">
-    <img src="https://www.theodinproject.com/mstile-310x310.png">
+    <img src="https://www.theodinproject.com/mstile-310x310.png" height="105" width="105">
   </a>
 </p>
 
