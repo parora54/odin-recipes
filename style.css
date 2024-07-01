@@ -1,0 +1,9 @@
+/* style.css */
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.headings {
+    color: red;
+}
